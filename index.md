@@ -16,4 +16,4 @@ Voit tehdä myös lainauksia
 
 ### Tässä kissakuva
 
-![Kissakuva](https://pixnio.com/free-images/2017/09/26/2017-09-26-09-45-02.jpg)
+![Kissakuva](https://pixnio.com/free-images/2017/09/26/2017-09-26-09-45-02-1100x733.jpg)
