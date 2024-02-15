@@ -17,3 +17,9 @@ Voit tehdä myös lainauksia
 ### Tässä kissakuva
 
 ![Kissakuva](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQfr-OUbiieUx74wzC66U-CZeixX_59u6SyA&usqp=CAU)
+
+### Tehtävälista
+
+- [x] Webbisivu tehty
+- [ ] Kaupassa käyty
+- [ ] Juhlat alkaa :tada:
