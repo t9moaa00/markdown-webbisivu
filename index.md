@@ -20,6 +20,6 @@ Voit tehdä myös lainauksia
 
 ### Tehtävälista
 
-- [x] Webbisivu tehty
-- [ ] Kaupassa käyty
-- [ ] Juhlat alkaa :tada:
+[x] Webbisivu tehty
+[ ] Kaupassa käyty
+[ ] Juhlat alkaa 
